@@ -1,0 +1,17 @@
+Index: src/Practice1.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class Practice1 {\n    \n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Practice1.java b/src/Practice1.java
+--- a/src/Practice1.java	(revision 45feee204f3cf50e870bf7ca65be013901d338d1)
++++ b/src/Practice1.java	(date 1641846893334)
+@@ -1,3 +1,5 @@
+ public class Practice1 {
+-    
++
++
++
+ }
